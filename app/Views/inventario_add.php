@@ -36,7 +36,7 @@
         <input type="number" name="STOCK" class="form-control">
       </div>
       <div class="form-group">
-        <button type="submit" class="btn btn-primary btn-block">Update Data</button>
+        <button type="submit" class="btn btn-primary btn-block">Actualizar Producto</button>
       </div>
     </form>
   </div>
